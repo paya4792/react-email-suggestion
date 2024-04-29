@@ -1,7 +1,7 @@
 {
   "name": "react-email-suggestion",
   "description": "An email input component with suggestions and autocomplete.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": "paya4792",
   "license": "MIT",
   "private": false,
